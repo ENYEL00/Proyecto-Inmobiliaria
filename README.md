@@ -72,4 +72,5 @@ Si bien los datos ya estaban predispuestos a fallar en la estimacion y el proyec
 ## Para terminar.
 
 Al mismo tiempo realice un dashboard con la informacion mas relevante para una empresa en el sector, tomando en cuenta los datos que poseo. No agregue los resultados del modelo, pero el dashboard es algo que dé valor.
-[Ver Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMTY2MGI4MjctZjFhNy00MmQ5LTgxZjUtMGJjYWM0NTgzMWY0IiwidCI6ImNkZWMyMTM0LTAzNjMtNGZkNC04MTU2LTYwMDMwMThmZjQ1MSIsImMiOjR9&pageName=b2429c7251b581496d58](https://app.powerbi.com/view?r=eyJrIjoiMWEyMzFlNGUtZGZlOC00ZWJmLWI3ZWYtYzIyZjgyY2VhNDRkIiwidCI6ImNkZWMyMTM0LTAzNjMtNGZkNC04MTU2LTYwMDMwMThmZjQ1MSIsImMiOjR9))
+
+![Ver Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMTY2MGI4MjctZjFhNy00MmQ5LTgxZjUtMGJjYWM0NTgzMWY0IiwidCI6ImNkZWMyMTM0LTAzNjMtNGZkNC04MTU2LTYwMDMwMThmZjQ1MSIsImMiOjR9&pageName=b2429c7251b581496d58](https://app.powerbi.com/view?r=eyJrIjoiMWEyMzFlNGUtZGZlOC00ZWJmLWI3ZWYtYzIyZjgyY2VhNDRkIiwidCI6ImNkZWMyMTM0LTAzNjMtNGZkNC04MTU2LTYwMDMwMThmZjQ1MSIsImMiOjR9))
